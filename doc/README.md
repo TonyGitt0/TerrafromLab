@@ -23,7 +23,7 @@ Le risorse in Terraform sono definite in blocchi. Ogni blocco è marcato dal tip
 - resource_type = "locale_file"
 - resource_name = "pet"
 
-![alt text](<Screenshot 2024-04-15 alle 19.23.39.png>)
+![alt text](<block.png>)
 
 
 ### Comandi Terraform
