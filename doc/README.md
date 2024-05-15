@@ -25,7 +25,6 @@ Le risorse in Terraform sono definite in blocchi. Ogni blocco è marcato dal tip
 
 ![alt text](<block.png>)
 
-
 ### Comandi Terraform
 - terraform init
 - terraform plan
